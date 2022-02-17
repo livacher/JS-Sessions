@@ -41,5 +41,28 @@ img {
     padding: 5%;
     margin-left: 10%;
     margin-right: 10%; 
+
+}
+.navbar {
+    background-color: rgb(231, 185, 185);
+    color: rgb(2, 46, 17);
+    width:100%;
+    padding: 10px;
+
 }
 
+
+
+.navbar-brand {
+    background-color: rgb(231, 185, 185);
+    color: rgb(2, 46, 17);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.container-fluid {
+    background-color: rgb(231, 185, 185);
+    color: rgb(2, 46, 17);
+    width:100%;
+    padding: 10px;
+    }
